@@ -2,4 +2,4 @@ initial text
 
 first change
 
-a new line added
+a new line addedsomething to add
